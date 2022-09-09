@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BeyondTheGym_WebApp</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BeyondTheGym_WebApp.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-transparent border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="https://www.freeiconspng.com/uploads/exercise-icon-9.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
+                    Beyond The Gym
+                </a>
+                <div class="container-fluid">
+
+                    <button class="navbar-toggler link-dark" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between link-dark">
+                        <ul class="navbar-nav flex-grow-1">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" asp-area="" asp-controller="Home" asp-action="Index">Home</a></a>
+                            </li>
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Menu
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a class="dropdown-item" asp-area="" asp-controller="Client" asp-action="Index">Clients</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" asp-area="" asp-controller="Category" asp-action="Index">Categories</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" asp-area="" asp-controller="Exercise" asp-action="Index">Exercises</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" asp-area="" asp-controller="ExercisePlan" asp-action="Index">Exercise Plans</a>
+                                    </li>
+                                </ul>
+                            </li>
+
+
+                        </ul>
+                        <partial name="_LoginPartial" />
+                    </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @*<footer class="border-top footer text-muted link-dark">
+        <div class="nav justify-content-center border-bottom pb-3 mb-3">
+            &copy; 2022 - BeyondTheGym - | <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a> |
+            <img src="./assets/Instagram-Glyph-Black-Logo.wine.png" alt="instagram" height="32" width="45"> |
+            <img src="./assets/TikTok-Icon-Logo.wine.png" alt="tiktok" height="32" width="45"> |
+
+            <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Careers</a></li> |
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">SiteMap</a></li>
+                <li class="nav-item"><a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">FAQs</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Terms of Use</a></li>
+            </ul>
+        </div>
+    </footer>*@
+
+    <div class="container">
+        <footer class="py-3 my-4 text-muted link-dark">
+            <br />
+            <br />
+            <p class="nav justify-content-center border-bottom pb-3 mb-3">
+                <img src="/Images/Instagram.png" alt="instagram" height="40" width="40">
+                <img src="/Images/TikTok.png" alt="tiktok" height="40" width="40">
+            </p>
+            <ul class="nav justify-content-center border-bottom pb-3 mb-3 text-muted link-dark">
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Careers</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">SiteMap</a></li>
+                <li class="nav-item"><a asp-area="" asp-controller="Home" asp-action="Privacy" class="text-muted">Privacy</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">FAQs</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Terms of Use</a></li>
+            </ul>
+            <p class="text-center text-muted"> &copy; 2022 - BeyondTheGym - </p>
+        </footer>
+    </div>
+
+
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

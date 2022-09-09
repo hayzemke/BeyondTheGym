@@ -1,0 +1,41 @@
+﻿@using BTG.Models.ExercisePlanModels
+@model PlanDetail
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h3>Exercise Plan Details</h3>
+
+<div>
+    @*<h4> Client </h4>*@
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ClientName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ClientName)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ExerciseName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ExerciseName)
+        </dd>
+
+    </dl>
+</div>
+
+<div>
+    @Html.ActionLink("Edit", "Edit", new { ID = Model.ID }) |
+    <a asp-action="Index"> Back to List </a>
+</div>

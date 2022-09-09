@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!--<Nullable>enable</Nullable>-->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ExerciseServices\" />
+    <None Remove="ExercisePlanServices\" />
+    <None Remove="ExerciseCategoryServices\" />
+    <None Remove="ClientServices\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ExerciseServices\" />
+    <Folder Include="ExercisePlanServices\" />
+    <Folder Include="ExerciseCategoryServices\" />
+    <Folder Include="ClientServices\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BTG.Models\BTG.Models.csproj" />
+  </ItemGroup>
+</Project>

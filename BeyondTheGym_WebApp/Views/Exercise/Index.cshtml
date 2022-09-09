@@ -1,0 +1,77 @@
+﻿@using BTG.Models.ExerciseModels
+@model IEnumerable<ExerciseListItem>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Exercises</h1>
+
+<p>
+    <a asp-action="Create">Add Exercise</a>
+</p>
+
+@if (Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                @*<th>
+                    @Html.DisplayNameFor(model => model.Instructions)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SetsAndReps)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CategoryName)
+                </th>*@
+                
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    @*<td>
+                        @Html.DisplayFor(modelItem => item.Instructions)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SetsAndReps)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CategoryName)
+                    </td>*@
+                    <td>
+                        @*@Html.ActionLink("Edit", "Edit", new { id = item.ID })*@
+                      
+                        @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                        @*<a href="Details/@item.LastName"> Details </a> |*@
+
+                        @*@Html.ActionLink("Delete", "Delete", new { id = item.LastName })*@
+                    </td>
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+}
+else
+{
+    <h1>Sorry there are no exercises.</h1>
+
+}

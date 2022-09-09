@@ -1,0 +1,15 @@
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/bin/Debug/net6.0/BTG.Models.deps.json
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/bin/Debug/net6.0/BTG.Models.dll
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/bin/Debug/net6.0/BTG.Models.pdb
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/bin/Debug/net6.0/BTG.Data.dll
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/bin/Debug/net6.0/BTG.Data.pdb
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/obj/Debug/net6.0/BTG.Models.csproj.AssemblyReference.cache
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/obj/Debug/net6.0/BTG.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/obj/Debug/net6.0/BTG.Models.AssemblyInfoInputs.cache
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/obj/Debug/net6.0/BTG.Models.AssemblyInfo.cs
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/obj/Debug/net6.0/BTG.Models.csproj.CoreCompileInputs.cache
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/obj/Debug/net6.0/BTG.Models.csproj.CopyComplete
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/obj/Debug/net6.0/BTG.Models.dll
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/obj/Debug/net6.0/refint/BTG.Models.dll
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/obj/Debug/net6.0/BTG.Models.pdb
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Models/obj/Debug/net6.0/ref/BTG.Models.dll
