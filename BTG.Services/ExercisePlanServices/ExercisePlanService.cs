@@ -77,22 +77,6 @@ namespace BTG.Services.ExercisePlanServices
 
             };
         }
-
-
-        //bookingViewModel.PatientList = db.Patients.Select(p => new SelectListItem()
-        //{
-        //    Value = p.PatientId.ToString(),
-        //    Text = p.User.FirstName + " " + p.User.LastName
-        //});
-
-
-        //public Task<IEnumerable<PlanListItem>> GetExericsePlanByNameAsync(Exercise LastName)
-        //{
-        //    //* terrys help
-
-
-        //}
-
     }
 }
 

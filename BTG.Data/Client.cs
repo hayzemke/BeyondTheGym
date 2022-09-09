@@ -7,9 +7,6 @@ namespace BTG.Data
 {
     public class Client : IdentityUser 
     {
-        //[Key]
-        //public int ID { get; set; }
-
         [Required]
         public string FirstName { get; set; }
 
@@ -27,11 +24,6 @@ namespace BTG.Data
 
         [Required]
         public string Injuries { get; set; }
-
-        //[Required]
-        //[ForeignKey(nameof(ExercisePlan))]
-        //public ExercisePlan Exercises { get; set; }
-        //public int ExercisePlanID { get; set; }
 
         public List<ExercisePlan> ExercisePlans { get; set; } = new List<ExercisePlan>();
 

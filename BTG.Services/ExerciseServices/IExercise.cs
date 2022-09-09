@@ -15,7 +15,7 @@ namespace BTG.Services.ExerciseServices
 
         Task<ExerciseDetail> GetExerciseDetailsAsync(int? id);
 
-
+        // 2.0 ideas
         //Task<bool> AddExerciseToPlanAsync(ExerciseListItem exercise, PlanListItem exercisePlan);
 
         // Remove from plan?

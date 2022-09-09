@@ -12,8 +12,6 @@ namespace BTG.Services.ClientServices
 
         Task<bool> EditClientAsync(string id, ClientEdit model);
 
-        //Task<bool> DeleteClientAsync (ClientCreate model);
-
         Task<ClientDetail> GetClientDetailByIDAsync(string id);
 
     }

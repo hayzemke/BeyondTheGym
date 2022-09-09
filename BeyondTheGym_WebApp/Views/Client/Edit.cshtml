@@ -8,8 +8,6 @@
 
 <h1> Edit Client Info </h1>
 
-@*<h4> Client</h4>*@
-
 @if (ViewData["ErrorMsg"] != null)
             {
                 <h4>@ViewData["ErrorMsg"] </h4>
@@ -49,12 +47,6 @@
             <input asp-for="Injuries" class="form-control" />
             <span asp-validation-for="Injuries" class="text-danger"></span>
         </div>
-
-        @*<div class="form-group">
-            <label asp-for="ExercisePlans" class="control-label"></label>
-            <input asp-for="ExercisePlans" class="form-control" />
-            <span asp-validation-for="ExercisePlans" class="text-danger"></span>
-        </div>*@
 
         <div class="form-group">
             <input type="submit" value="Save" class="btn btn-primary" />

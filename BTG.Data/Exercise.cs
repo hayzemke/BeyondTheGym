@@ -22,9 +22,6 @@ namespace BTG.Data
 
         [ForeignKey(nameof(CategoryID))]
         public virtual Category Category { get; set; }
-
-        //public List<ExercisePlan> ExercisePlans { get; set; } = new List<ExercisePlan>();
-
     }
 }
 

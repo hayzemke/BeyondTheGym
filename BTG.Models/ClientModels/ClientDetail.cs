@@ -13,16 +13,11 @@ namespace BTG.Models.ClientModels
         [Required]
         public string LastName { get; set; }
 
-        //[Required]
-        //public string Email { get; set; }
-
         [Required]
         public DateTime DateOfBirth { get; set; }
 
         [Required]
         public string Injuries { get; set; }
-
-        public List<ExercisePlan> ExercisePlans { get; set; } = new List<ExercisePlan>();
     }
 }
 

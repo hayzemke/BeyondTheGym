@@ -16,8 +16,6 @@ namespace BTG.Models.ExerciseModels
         public string SetsAndReps { get; set; }
 
         public string CategoryName { get; set; } 
-
-        //public List<ExercisePlan> ExercisePlans { get; set; } = new List<ExercisePlan>();
     }
 
 }

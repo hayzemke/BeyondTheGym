@@ -7,8 +7,6 @@ namespace BTG.Models.ClientModels
 {
     public class ClientCreate 
     {
-        //public string Id { get; set; }
-
         [Required]
         public string FirstName { get; set; }
 

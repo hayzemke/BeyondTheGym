@@ -63,9 +63,6 @@ namespace BTG.Services.ExerciseServices
 
             await _context.SaveChangesAsync();
             return true;
-
-            //SingleOrDefaultAsync(x => x.LastName == lastName);
-            //if (entity is null) return false;
         }
 
         public async Task<ExerciseDetail> GetExerciseDetailsAsync(int? id)

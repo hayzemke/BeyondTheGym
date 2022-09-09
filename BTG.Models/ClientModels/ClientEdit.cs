@@ -22,8 +22,6 @@ namespace BTG.Models.ClientModels
 
         [Required]
         public string Injuries { get; set; }
-
-        //public int ExercisePlanID { get; set; }
     }
 }
 

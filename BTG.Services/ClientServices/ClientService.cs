@@ -60,10 +60,8 @@ namespace BTG.Services.ClientServices
             {
                 FirstName=client.FirstName,
                 LastName=client.LastName,
-                //Email=client.Email,
                 DateOfBirth=client.DateOfBirth,
                 Injuries=client.Injuries,
-                ExercisePlans=client.ExercisePlans
             };
         }
 
@@ -74,16 +72,12 @@ namespace BTG.Services.ClientServices
             var entity = await _context.Clients.SingleOrDefaultAsync(x=>x.LastName==lastName);
             if (entity is null) return false;
 
-            //entity.Id = model.ID;
             entity.FirstName = model.FirstName;
             entity.LastName = model.LastName;
             entity.Email = model.Email;
             entity.DateOfBirth = model.DateOfBirth;
             entity.Injuries = model.Injuries;
 
-            //_context.Clients.Update(entity);
-            //await _context.SaveChangesAsync();
-            //return true;
             return await _context.SaveChangesAsync() == 1;
 
         }
