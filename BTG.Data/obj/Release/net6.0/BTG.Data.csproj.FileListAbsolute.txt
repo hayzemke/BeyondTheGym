@@ -1,0 +1,14 @@
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/bin/Release/net6.0/BTG.Data.deps.json
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/bin/Release/net6.0/BTG.Data.runtimeconfig.json
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/bin/Release/net6.0/BTG.Data.dll
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/bin/Release/net6.0/BTG.Data.pdb
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/obj/Release/net6.0/BTG.Data.csproj.AssemblyReference.cache
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/obj/Release/net6.0/BTG.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/obj/Release/net6.0/BTG.Data.AssemblyInfoInputs.cache
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/obj/Release/net6.0/BTG.Data.AssemblyInfo.cs
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/obj/Release/net6.0/BTG.Data.csproj.CoreCompileInputs.cache
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/obj/Release/net6.0/BTG.Data.dll
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/obj/Release/net6.0/refint/BTG.Data.dll
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/obj/Release/net6.0/BTG.Data.pdb
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/obj/Release/net6.0/BTG.Data.genruntimeconfig.cache
+/Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/obj/Release/net6.0/ref/BTG.Data.dll

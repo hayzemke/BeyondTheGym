@@ -1,0 +1,9 @@
+/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym_WebApp/obj/Release/net6.0/BeyondTheGym_WebApp.csproj.AssemblyReference.cache
+/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym_WebApp/obj/Release/net6.0/BeyondTheGym_WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym_WebApp/obj/Release/net6.0/BeyondTheGym_WebApp.AssemblyInfoInputs.cache
+/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym_WebApp/obj/Release/net6.0/BeyondTheGym_WebApp.AssemblyInfo.cs
+/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym_WebApp/obj/Release/net6.0/BeyondTheGym_WebApp.csproj.CoreCompileInputs.cache
+/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym_WebApp/obj/Release/net6.0/BeyondTheGym_WebApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym_WebApp/obj/Release/net6.0/BeyondTheGym_WebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym_WebApp/obj/Release/net6.0/BeyondTheGym_WebApp.RazorAssemblyInfo.cache
+/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym_WebApp/obj/Release/net6.0/BeyondTheGym_WebApp.RazorAssemblyInfo.cs
