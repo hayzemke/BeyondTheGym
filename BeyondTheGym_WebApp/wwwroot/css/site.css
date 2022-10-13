@@ -18,3 +18,15 @@ body {
   background-color: azure;
 }
 
+container {
+    margin-top: 200px;
+    text-align: center;
+
+}
+
+.nav {
+    text-decoration: none;
+    text-align: center;
+    margin: 0 auto;
+
+}

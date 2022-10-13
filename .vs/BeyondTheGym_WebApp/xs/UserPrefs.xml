@@ -1,15 +1,39 @@
 ﻿<Properties StartupConfiguration="{A419DFD7-B49C-4FA2-880C-4C9B48D3C455}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BeyondTheGym_WebApp/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="BeyondTheGym_WebApp/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Option id="ShowAllFiles" value="True" />
           <Node name="BeyondTheGym_WebApp" expanded="True">
-            <Node name="BeyondTheGym_WebApp" selected="True" />
+            <Node name="BeyondTheGym_WebApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Client" expanded="True" />
+                <Node name="ExercisePlan" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="Images" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="BTG.Data" expanded="True" />
+            <Node name="BTG.Models" expanded="True">
+              <Node name="CategoryModels" expanded="True" />
+              <Node name="ClientModels" expanded="True" />
+              <Node name="ExerciseModels" expanded="True" />
+              <Node name="ExercisePlanModels" expanded="True" />
+            </Node>
+            <Node name="BTG.Services" expanded="True">
+              <Node name="ClientServices" expanded="True" />
+              <Node name="ExercisePlanServices" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -18,7 +42,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.BeyondTheGym__WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
