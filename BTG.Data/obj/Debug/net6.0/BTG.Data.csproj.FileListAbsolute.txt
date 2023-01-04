@@ -12,3 +12,17 @@
 /Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/obj/Debug/net6.0/BTG.Data.pdb
 /Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/obj/Debug/net6.0/BTG.Data.genruntimeconfig.cache
 /Users/hales/Projects/BeyondTheGym_WebApp/BTG.Data/obj/Debug/net6.0/ref/BTG.Data.dll
+C:\Users\hlowe\Source\Repos\BeyondTheGym\BTG.Data\bin\Debug\net6.0\BTG.Data.deps.json
+C:\Users\hlowe\Source\Repos\BeyondTheGym\BTG.Data\bin\Debug\net6.0\BTG.Data.runtimeconfig.json
+C:\Users\hlowe\Source\Repos\BeyondTheGym\BTG.Data\bin\Debug\net6.0\BTG.Data.dll
+C:\Users\hlowe\Source\Repos\BeyondTheGym\BTG.Data\bin\Debug\net6.0\BTG.Data.pdb
+C:\Users\hlowe\Source\Repos\BeyondTheGym\BTG.Data\obj\Debug\net6.0\BTG.Data.csproj.AssemblyReference.cache
+C:\Users\hlowe\Source\Repos\BeyondTheGym\BTG.Data\obj\Debug\net6.0\BTG.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlowe\Source\Repos\BeyondTheGym\BTG.Data\obj\Debug\net6.0\BTG.Data.AssemblyInfoInputs.cache
+C:\Users\hlowe\Source\Repos\BeyondTheGym\BTG.Data\obj\Debug\net6.0\BTG.Data.AssemblyInfo.cs
+C:\Users\hlowe\Source\Repos\BeyondTheGym\BTG.Data\obj\Debug\net6.0\BTG.Data.csproj.CoreCompileInputs.cache
+C:\Users\hlowe\Source\Repos\BeyondTheGym\BTG.Data\obj\Debug\net6.0\BTG.Data.dll
+C:\Users\hlowe\Source\Repos\BeyondTheGym\BTG.Data\obj\Debug\net6.0\refint\BTG.Data.dll
+C:\Users\hlowe\Source\Repos\BeyondTheGym\BTG.Data\obj\Debug\net6.0\BTG.Data.pdb
+C:\Users\hlowe\Source\Repos\BeyondTheGym\BTG.Data\obj\Debug\net6.0\BTG.Data.genruntimeconfig.cache
+C:\Users\hlowe\Source\Repos\BeyondTheGym\BTG.Data\obj\Debug\net6.0\ref\BTG.Data.dll

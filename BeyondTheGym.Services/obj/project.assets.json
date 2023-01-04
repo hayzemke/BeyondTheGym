@@ -8,24 +8,26 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "/Users/hales/.nuget/packages/": {}
+    "C:\\Users\\hlowe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym.Services/BeyondTheGym.Services.csproj",
+      "projectUniqueName": "C:\\Users\\hlowe\\Source\\Repos\\BeyondTheGym\\BeyondTheGym.Services\\BeyondTheGym.Services.csproj",
       "projectName": "BeyondTheGym.Services",
-      "projectPath": "/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym.Services/BeyondTheGym.Services.csproj",
-      "packagesPath": "/Users/hales/.nuget/packages/",
-      "outputPath": "/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym.Services/obj/",
+      "projectPath": "C:\\Users\\hlowe\\Source\\Repos\\BeyondTheGym\\BeyondTheGym.Services\\BeyondTheGym.Services.csproj",
+      "packagesPath": "C:\\Users\\hlowe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hlowe\\Source\\Repos\\BeyondTheGym\\BeyondTheGym.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/hales/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\hlowe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

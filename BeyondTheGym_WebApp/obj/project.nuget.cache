@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "2xaJEaAYV/SPYYMTMZ398L5MmLilrtvu+ZLSCBITtK4PqCkpWK5MjR/wRPP3lKECxcUHNMZOdnNbGA89Qf7Kcw==",
-  "success": false,
+  "dgSpecHash": "hARDkkbi5Fvllh1QByLhVK2yF35NHiEBUtmmXsZGIpNAwcuP/9MsTZFK+jELseeUGhjgcrdCjhMmtITocNfLjg==",
+  "success": true,
   "projectFilePath": "C:\\Users\\hlowe\\Source\\Repos\\BeyondTheGym\\BeyondTheGym_WebApp\\BeyondTheGym_WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hlowe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -57,15 +57,5 @@
     "C:\\Users\\hlowe\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\hlowe\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'C:\\Users\\hlowe\\Source\\Repos\\BeyondTheGym\\BeyondTheGym.Services\\BeyondTheGym.Services.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\Users\\hlowe\\Source\\Repos\\BeyondTheGym\\BeyondTheGym.Services\\BeyondTheGym.Services.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

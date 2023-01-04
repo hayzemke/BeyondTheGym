@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace BTG.Data.Migrations
 {
-    public partial class InitMigration : Migration
+    public partial class BeyondTheGym_App : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

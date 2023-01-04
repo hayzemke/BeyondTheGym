@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ezxDbgxKz7Zo7qzg+X4xIVGyHs5V14uCSweTDsZ/l4NHQtAqTQaZzhU3z0ADciKqPWHwO7+6SbjWUWdZKOocoQ==",
+  "dgSpecHash": "OapeZ9bLCUesd4NDdGaDKKykC9Xjr6AMlWFY0MdXfdro4duYV8+c8ltulOHDAqw+BJOAJL35IlKGBImkLPwKWQ==",
   "success": true,
-  "projectFilePath": "/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym.Services/BeyondTheGym.Services.csproj",
+  "projectFilePath": "C:\\Users\\hlowe\\Source\\Repos\\BeyondTheGym\\BeyondTheGym.Services\\BeyondTheGym.Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

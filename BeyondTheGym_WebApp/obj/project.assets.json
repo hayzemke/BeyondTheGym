@@ -952,6 +952,16 @@
           }
         }
       },
+      "BeyondTheGym.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/BeyondTheGym.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BeyondTheGym.Services.dll": {}
+        }
+      },
       "BTG.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2485,6 +2495,11 @@
         "version.txt"
       ]
     },
+    "BeyondTheGym.Services/1.0.0": {
+      "type": "project",
+      "path": "../BeyondTheGym.Services/BeyondTheGym.Services.csproj",
+      "msbuildProject": "../BeyondTheGym.Services/BeyondTheGym.Services.csproj"
+    },
     "BTG.Data/1.0.0": {
       "type": "project",
       "path": "../BTG.Data/BTG.Data.csproj",
@@ -2506,7 +2521,7 @@
       "BTG.Data >= 1.0.0",
       "BTG.Models >= 1.0.0",
       "BTG.Services >= 1.0.0",
-      "C:\\Users\\hlowe\\Source\\Repos\\BeyondTheGym\\BeyondTheGym.Services\\BeyondTheGym.Services.csproj",
+      "BeyondTheGym.Services >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.9",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.9",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.9",
@@ -2611,16 +2626,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'C:\\Users\\hlowe\\Source\\Repos\\BeyondTheGym\\BeyondTheGym.Services\\BeyondTheGym.Services.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\Users\\hlowe\\Source\\Repos\\BeyondTheGym\\BeyondTheGym.Services\\BeyondTheGym.Services.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

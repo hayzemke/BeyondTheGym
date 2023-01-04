@@ -12,14 +12,14 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BTG.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220906151618_InitMigration")]
-    partial class InitMigration
+    [Migration("20230101201012_BeyondTheGym_App")]
+    partial class BeyondTheGym_App
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "6.0.8")
+                .HasAnnotation("ProductVersion", "6.0.9")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
@@ -350,7 +350,7 @@ namespace BTG.Data.Migrations
                         .HasForeignKey("ClientID");
 
                     b.HasOne("BTG.Data.Exercise", "Exercise")
-                        .WithMany("ExercisePlans")
+                        .WithMany()
                         .HasForeignKey("ExerciseID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -409,11 +409,6 @@ namespace BTG.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("BTG.Data.Exercise", b =>
-                {
-                    b.Navigation("ExercisePlans");
                 });
 
             modelBuilder.Entity("BTG.Data.Client", b =>
