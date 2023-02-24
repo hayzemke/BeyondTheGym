@@ -9,101 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BeyondTheGym_WebApp
 build_property.RootNamespace = BeyondTheGym_WebApp
-build_property.ProjectDir = C:\Users\hlowe\Source\Repos\BeyondTheGym\BeyondTheGym_WebApp\
+build_property.ProjectDir = C:\Users\hlowe\source\repos\BeyondTheGym\BeyondTheGym_WebApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hlowe\Source\Repos\BeyondTheGym\BeyondTheGym_WebApp
+build_property.MSBuildProjectDirectory = C:\Users\hlowe\source\repos\BeyondTheGym\BeyondTheGym_WebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Category/Create.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Category/Index.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Client/Create.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Client/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Client/Details.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Client/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Client/Edit.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Client/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Client/Index.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Client/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/ExercisePlan/Create.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/ExercisePlan/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VQbGFuXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/ExercisePlan/Details.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/ExercisePlan/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VQbGFuXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/ExercisePlan/Edit.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/ExercisePlan/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VQbGFuXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/ExercisePlan/Index.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/ExercisePlan/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VQbGFuXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Exercise/Create.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Exercise/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Exercise/Details.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Exercise/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Exercise/Edit.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Exercise/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Exercise/Index.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Exercise/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Home/Index.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Home/Privacy.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Shared/Error.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/_ViewImports.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/_ViewStart.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hlowe/Source/Repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Shared/_Layout.cshtml]
+[C:/Users/hlowe/source/repos/BeyondTheGym/BeyondTheGym_WebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-g5dqg8v54j

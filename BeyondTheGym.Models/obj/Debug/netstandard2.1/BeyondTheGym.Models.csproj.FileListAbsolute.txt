@@ -1,5 +1,0 @@
-/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym.Models/obj/Debug/netstandard2.1/BeyondTheGym.Models.csproj.AssemblyReference.cache
-/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym.Models/obj/Debug/netstandard2.1/BeyondTheGym.Models.GeneratedMSBuildEditorConfig.editorconfig
-/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym.Models/obj/Debug/netstandard2.1/BeyondTheGym.Models.AssemblyInfoInputs.cache
-/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym.Models/obj/Debug/netstandard2.1/BeyondTheGym.Models.AssemblyInfo.cs
-/Users/hales/Projects/BeyondTheGym_WebApp/BeyondTheGym.Models/obj/Debug/netstandard2.1/BeyondTheGym.Models.csproj.CoreCompileInputs.cache
